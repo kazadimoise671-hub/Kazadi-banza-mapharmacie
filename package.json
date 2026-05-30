@@ -1,0 +1,13 @@
+{
+  "name": "kazadi_banza_examen_mapharmacie",
+  "version": "1.0.0",
+  "description": "Application de pharmacie en ligne - MaPharmacie",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": ["pharmacie", "médicaments", "application"],
+  "author": "kazadi_banza_examen_Mapharmacie",
+  "license": "MIT"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "kazadi_banza_examen_Mapharmacie",
+  "short_name": "MaPharmacie",
+  "description": "Application de pharmacie en ligne - Commandez vos médicaments facilement",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#1db854",
+  "icons": [
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663709730129/X2yA9oaXDva86skUkjKjPC/pharmacy_logo-SzCktMgQwAF2YiJMhusx3r.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663709730129/X2yA9oaXDva86skUkjKjPC/pharmacy_logo-SzCktMgQwAF2YiJMhusx3r.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663709730129/X2yA9oaXDva86skUkjKjPC/pharmacy_logo-SzCktMgQwAF2YiJMhusx3r.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["shopping", "productivity"],
+  "screenshots": [
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663709730129/X2yA9oaXDva86skUkjKjPC/pharmacy_hero-56BieDkmGYhtAhEq5FXHAT.webp",
+      "sizes": "540x720",
+      "type": "image/webp",
+      "form_factor": "narrow"
+    }
+  ]
+}
